@@ -1,4 +1,4 @@
-# julia implementation of Synthetic Control
+# julia implementation of Synthetic Control method
 
 The package is a julia implementation of [Abadie, Diamond, and Hainmueller (2010)](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746). The code was translated from MATLAB, the code provided by [Hainmueller](https://web.stanford.edu/~jhain/synthpage.html).
 
